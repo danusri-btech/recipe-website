@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cake Recipe</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Delicious Recipes</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipe1.html">Pasta</a></li>
+            <li><a href="recipe2.html">Dosa</a></li>
+            <li><a href="recipe3.html">Cake</a></li>
+            <li><a href="recipe4.html">Salad</a></li>
+            <li><a href="recipe5.html">Soup</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="recipe">
+    <h2>Vanilla Cake</h2>
+
+    <img src="images/image3.jpg" alt="Cake">
+
+    <p><strong>Preparation Time:</strong> 45 minutes</p>
+    <p><strong>Difficulty:</strong> Medium</p>
+
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 ½ cups all-purpose flour</li>
+        <li>1 cup sugar</li>
+        <li>½ cup butter</li>
+        <li>2 eggs</li>
+        <li>½ cup milk</li>
+        <li>1 tsp vanilla extract</li>
+        <li>1 ½ tsp baking powder</li>
+        <li>Pinch of salt</li>
+    </ul>
+
+    <h3>Instructions</h3>
+    <ol>
+        <li>Preheat oven to 180°C (350°F).</li>
+        <li>Grease and flour a baking pan.</li>
+        <li>Cream butter and sugar until light and fluffy.</li>
+        <li>Add eggs one at a time and mix well.</li>
+        <li>Mix flour, baking powder, and salt in a separate bowl.</li>
+        <li>Gradually add dry ingredients to the mixture.</li>
+        <li>Add milk and vanilla extract, mix until smooth.</li>
+        <li>Pour batter into the pan.</li>
+        <li>Bake for 30–35 minutes.</li>
+        <li>Let it cool before serving.</li>
+    </ol>
+</section>
+
+<footer>
+    <p>Created by Danusri</p>
+</footer>
+
+</body>
+</html>

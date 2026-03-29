@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dosa Recipe</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Delicious Recipes</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipe1.html">Pasta</a></li>
+            <li><a href="recipe2.html">Dosa</a></li>
+            <li><a href="recipe3.html">Cake</a></li>
+            <li><a href="recipe4.html">Salad</a></li>
+            <li><a href="recipe5.html">Soup</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="recipe">
+    <h2>Dosa</h2>
+
+    <img src="images/image2.jpg" alt="Dosa">
+
+    <p><strong>Preparation Time:</strong> 20 minutes (excluding fermentation)</p>
+    <p><strong>Difficulty:</strong> Medium</p>
+
+    <h3>Ingredients</h3>
+    <ul>
+        <li>2 cups rice</li>
+        <li>1 cup urad dal (split black gram)</li>
+        <li>1/2 tsp fenugreek seeds</li>
+        <li>Salt (to taste)</li>
+        <li>Water (as needed)</li>
+        <li>Oil for cooking</li>
+    </ul>
+
+    <h3>Instructions</h3>
+    <ol>
+        <li>Wash and soak rice, urad dal, and fenugreek seeds for 6–8 hours.</li>
+        <li>Grind into a smooth batter by adding water.</li>
+        <li>Allow the batter to ferment overnight.</li>
+        <li>Heat a pan and lightly grease it.</li>
+        <li>Pour a ladle of batter and spread it in a circular motion.</li>
+        <li>Drizzle oil and cook until golden brown.</li>
+        <li>Fold and serve hot with chutney or sambar.</li>
+    </ol>
+</section>
+
+<footer>
+    <p>Created by Danusri</p>
+</footer>
+
+</body>
+</html>

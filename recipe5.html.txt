@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soup Recipe</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Delicious Recipes</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipe1.html">Pasta</a></li>
+            <li><a href="recipe2.html">Dosa</a></li>
+            <li><a href="recipe3.html">Cake</a></li>
+            <li><a href="recipe4.html">Salad</a></li>
+            <li><a href="recipe5.html">Soup</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="recipe">
+    <h2>Vegetable Soup</h2>
+
+    <img src="images/soup.jpg" alt="Soup">
+
+    <p><strong>Preparation Time:</strong> 30 minutes</p>
+    <p><strong>Difficulty:</strong> Easy</p>
+
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 cup chopped carrots</li>
+        <li>1 cup chopped beans</li>
+        <li>1/2 cup corn</li>
+        <li>1 chopped onion</li>
+        <li>2 cloves garlic</li>
+        <li>4 cups vegetable broth or water</li>
+        <li>Salt (to taste)</li>
+        <li>Black pepper</li>
+    </ul>
+
+    <h3>Instructions</h3>
+    <ol>
+        <li>Heat a pan and sauté onion and garlic.</li>
+        <li>Add chopped vegetables and cook for a few minutes.</li>
+        <li>Pour in vegetable broth or water.</li>
+        <li>Bring to a boil, then simmer for 15–20 minutes.</li>
+        <li>Add salt and pepper to taste.</li>
+        <li>Serve hot.</li>
+    </ol>
+</section>
+
+<footer>
+    <p>Created by Danusri</p>
+</footer>
+
+</body>
+</html>
